@@ -12,6 +12,7 @@ public class TwoStackImplementQueue {
         public Stack<Integer> stackPop; //出栈
         public Queue<Integer> queue;
 
+
         public TwoStackQueue() {
             stackPush = new Stack<>();
             stackPop  = new Stack<>();
